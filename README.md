@@ -1,40 +1,35 @@
-# Hi , I'm Mihir Rathod
+# Hi  I'm Mihir Rathod
 
- M.Sc. Data Science Student at MIT ADT University
+ M.Sc. Data Science Student
 
- Aspiring Data Analyst | Data Scientist
+ Passionate about Data Science, Machine Learning, NLP, and Data Analytics.
 
----
-
-##  Skills
+##  Tech Stack
 
 - Python
 - SQL
 - Pandas
 - NumPy
-- Machine Learning
-- NLP
+- Scikit-learn
+- Matplotlib
+- Seaborn
 - Power BI
-- Excel
+- Git
 
----
+##  Projects
 
-##  Featured Projects
+- Political Stance Analysis
+- Automated Data Visualization Tool
 
-###  Political Stance Analysis
-NLP-based machine learning model for classifying tweets into Favor, Against, and Neutral.
+##  Currently Learning
 
-###  Automated Data Visualization Tool
-Python application for automated EDA and visualization.
+- Machine Learning
+- Deep Learning
+- Data Engineering
 
----
-
-##  Connect with Me
+##  Contact
 
 Email: mihirrathod1008@gmail.com
 
 LinkedIn:
 https://linkedin.com/in/mihir-rathod-108
-
-GitHub:
-https://github.com/mihirrathod
